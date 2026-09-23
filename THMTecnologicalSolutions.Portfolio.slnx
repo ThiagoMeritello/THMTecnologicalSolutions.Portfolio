@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="src/THMTecnologicalSolutions.Portfolio.Api/THMTecnologicalSolutions.Portfolio.Api.csproj" />
+  <Project Path="src/THMTecnologicalSolutions.Portfolio.Application/THMTecnologicalSolutions.Portfolio.Application.csproj" Id="f9583f58-07dc-4772-aa45-d2a9d1f68fbe" />
+  <Project Path="src/THMTecnologicalSolutions.Portfolio.Domain/THMTecnologicalSolutions.Portfolio.Domain.csproj" Id="4fcde50d-48be-48ab-9d05-1ee8cf2bfb73" />
+  <Project Path="src/THMTecnologicalSolutions.Portfolio.Infrastructure/THMTecnologicalSolutions.Portfolio.Infrastructure.csproj" />
+  <Project Path="tests/THMTecnologicalSolutions.Portfolio.Api.IntegrationTests/THMTecnologicalSolutions.Portfolio.Api.IntegrationTests.csproj" Id="24cbd81a-1ead-44dc-a75f-679361c77845" />
+  <Project Path="tests/THMTecnologicalSolutions.Portfolio.Application.Tests/THMTecnologicalSolutions.Portfolio.Application.Tests.csproj" Id="6a76f7db-a733-4614-99c5-b5195b8b59af" />
+  <Project Path="tests/THMTecnologicalSolutions.Portfolio.Domain.Tests/THMTecnologicalSolutions.Portfolio.Domain.Tests.csproj" Id="38649047-41f8-41b1-852a-e8392c8ed5cb" />
+</Solution>
