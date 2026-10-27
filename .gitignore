@@ -1,0 +1,40 @@
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Compilação .NET
+**/bin/
+**/obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Arquivos temporários
+*.tmp
+*.log
+*.cache
+
+# Testes e cobertura
+TestResults/
+coverage/
+*.coverage
+
+# Rider / VS Code
+.idea/
+.vscode/
+
+# NuGet
+*.nupkg
+packages/
+
+# Arquivos de ambiente e segredos locais
+.env
+.env.*
+!.env.example
+appsettings.Local.json
+appsettings.Development.local.json
