@@ -33,6 +33,7 @@ coverage/
 packages/
 
 # Arquivos de ambiente e segredos locais
+# Docker
 .env
 .env.*
 !.env.example
